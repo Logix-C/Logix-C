@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Logix-C
+- 👋 Hi, I’m @SelowNg
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with anybody/any project
