@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Renard Ng</h1>
-<h3 align="center">Hardware Developer(Verilog, System Verilog) & C++ Nerd</h3>
+<h3 align="center">Hardware Enthusiast(Verilog, System Verilog) & C++ Nerd</h3>
+
+- 🌱 I’m currently learning **Low Latency Systems + Networking**
 
 - 💬 Ask me about **Verilog or SystemVerilog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/renard rafferty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renard rafferty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
