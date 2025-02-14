@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renard Ng</h1>
 <h3 align="center">Hardware Enthusiast(Verilog, System Verilog) & C++ Nerd</h3>
 
-- 🌱 I’m currently learning **Low Latency Systems + Networking**
-
-- 💬 Ask me about **Verilog or SystemVerilog**
+- 🌱 Studied Circuit design/simulator(Kicad/LTSpice). 
+- 💬 Interested in FPGAs and HDLs(Verilog/SystemVerilog).
+- 🐳 Learning C++/ Networking for low-latency systems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
